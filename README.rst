@@ -1,25 +1,27 @@
-What is Winja 101?
+Template
 ========
 
-$project is an open source platform based on the ESP32 IOT module, concieved to provide an easy way for people who want to learn the basics of embedded programming and electronics.
+$project will solve your problem of where to start with documentation,
+by providing a basic explanation of how to do it easily.
+
+Look how easy it is to use:
+
+    import project
+    # Get your stuff done
+    project.do_stuff()
 
 Features
 --------
-- Dual 32 bit CPU microcontroller Arduino compatible
-- USB to Serial Communication
-- Wifi 
-- Bluetooth 4.0 Low Energy
-- Single Cell Lipo-charger
-- Accelerometer
-- I2C temperature sensor
-- Light sensor
-- User LED
-- Programmable push button
-- Buzzer
-- 12 bit delta-sigma analog to digital converter 
-- Nunchuck compatible port
-- Standard 0.1" connectors 
 
+- Be awesome
+- Make things faster
+
+Installation
+------------
+
+Install $project by running:
+
+    install project
 
 Contribute
 ----------
@@ -30,9 +32,10 @@ Contribute
 Support
 -------
 
-If you are having issues, please let us know through: contact@turpialsolutions.com
+If you are having issues, please let us know.
+We have a mailing list located at: project@google-groups.com
 
 License
 -------
 
-The project is licensed under the GPLV3 license.
+The project is licensed under the BSD license.
